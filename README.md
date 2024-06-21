@@ -6,7 +6,7 @@ Author:
 ```
 ## ⇨ instagram :
 www.instagram.com/xzx0
-## ⇨Facebook :
+## ⇨Facebook :774346774
 www.facebook.com/m1w4m
 ## ⇨Telegram :
 t.me/ll218ll
@@ -35,4 +35,4 @@ $ cd ALELAGY
 $ git pull
 $ python AHMED.py
 ```
-ادكر المصدر ترى الاداة بتنباع بفلوس !!
+ادكر المصدر ترى الاداة بتنباع بفلوس 
